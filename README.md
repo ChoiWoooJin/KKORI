@@ -1,6 +1,6 @@
 # 하이퍼 로컬 기반 강아지 산책대행 프로젝트 KKORI
 <div align="center">
-  <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/7076d691-7933-4389-a06e-5de73416dcfd" width="300">
+  <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/7076d691-7933-4389-a06e-5de73416dcfd" width="300" hight="300">
 </div>
 ## 프로젝트 소개
 
