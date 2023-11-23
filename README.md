@@ -43,7 +43,7 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 
 # 기능 소개💡
 * KKORI 주요 기능은 다음과 같습니다!
-<table>
+<table  style="text-align: center;">
   <tr>
     <th style="text-align: center;">앱로딩-메인</th>
     <th style="text-align: center;">게시판</th>
@@ -78,7 +78,7 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
       <p>게시판에서 견주에게 채팅을 보낼 수 있습니다!</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a" alt="지도 및 클러스터링" width="400" height="300"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a" alt="지도 및 클러스터링" width="400" height="400"/>
       <p>내 위치 기반 게시글을 볼 수 있습니다!</p>
     </td>
   </tr>
