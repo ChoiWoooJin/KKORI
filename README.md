@@ -67,7 +67,7 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 
 | 반려견 관리 | 산책 현황 |
 |:---:|:---:|
-| <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e" width="300"> | <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce" width="300"> |
+| <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e" width="300"> | <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce" width="260"> |
 | 유저들이 업로드한 연기 영상을 볼 수 있습니다! | 댓글과 좋아요로 소통할 수 있습니다! |
 
 - 연기 배틀을 종료하고, 여러분의 연기를 저장할 수 있습니다.
