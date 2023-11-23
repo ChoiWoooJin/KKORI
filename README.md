@@ -61,6 +61,7 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 | ![채팅](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/d1f6e234-17e7-422e-815a-462d4f0f1d31)|![지도](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a) |
 |게시판에서 견주에게 채팅을 보낼수있습니다!|내 위치기반 게시글을 볼수있습니다!|
 
+## 관리 :clipboard:
 |반려견 관리|산책현황|
 |:---:|:---:|
 | ![분실견 및 관리](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e) | ![산책](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce) |
