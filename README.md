@@ -48,7 +48,7 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 
 |같이하기-백스테이지|같이하기-베틀룸|
 |:---:|:---:|
-| ![같이하기-백스테이지](./assets/gif/같이하기-백스테이지GIF.gif) | ![같이하기-배틀룸GIF.gif](./assets/gif/같이하기-배틀룸GIF.gif) |
+| ![시작](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/fe8923f2-395a-4c69-9ec3-820558f541dd) | ![게시판](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/6626018b-0f9b-40ad-9638-82ca37818ebf)) |
 |연기 대결을 하기 전 백스테이지입니다!|연기 대결을 진행하는 베틀룸입니다!|
 - 1:1 화상 연기 배틀을 진행합니다.
 - 표정과 음성을 이용하여 연기를 채점합니다.
@@ -58,25 +58,17 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 ## 투표해줘 :clipboard:
 |연기영상 업로드|투표해줘 게시판|
 |:---:|:---:|
-| ![마이페이지-업로드](./assets/gif/마이페이지-업로드GIF.gif) | ![투표해줘-일반](./assets/gif/투표해줘-일반GIF.gif) |
+| ![채팅](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/d1f6e234-17e7-422e-815a-462d4f0f1d31)|![지도](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a) |
 |저장한 연기영상을 투표해줘 게시판에 업로드 할 수 있습니다!|유저들이 업로드한 연기영상을 볼 수 있습니다!|
 
 |이달의 인기영상|커뮤니케이션|
 |:---:|:---:|
-| ![투표해줘-인기영상](./assets/gif/투표해줘-인기영상GIF.gif) | ![투표해줘-좋아요댓글](./assets/gif/투표해줘-좋아요댓글GIF.gif) |
+| ![분실견 및 관리](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e) | ![산책](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce) |
 |유저들이 업로드한 연기영상을 볼 수 있습니다!|댓글과 좋아요로 소통할 수 있습니다!|
 
 - 연기 배틀을 종료하고, 여러분의 연기를 저장할 수 있습니다.
 - 저장한 연기 영상을 공유하여 다른 사용자들과 소통하고 평가할 수 있습니다.
 - 많은 사랑을 받은 연기는 REON 인기 영상으로 진입합니다.
-
-## 혼자하기 :selfie:
-|연기 연습|연기 영상 교체|
-|:---:|:---:|
-| ![혼자하기-게임](./assets/gif/혼자하기-게임GIF.gif) |![혼자하기-게임변경](./assets/gif/혼자하기-게임변경GIF.gif) | 
-|혼자 연기연습을 할 수 있습니다!|연기 영상 변경이 가능합니다!|
-- 연기 배틀에 부담을 느끼거나 연습을 하고 싶을때 홀로 연기연습을 할 수 있습니다.
-- 홀로 연기하고 채점을 진행하면서 연기 실력을 향상시킬 수 있습니다.
 
 
 
@@ -128,108 +120,17 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 |혼자 연기 연습을 할 수 있는 페이지입니다.|연기를 진행한 뒤 베틀과 동일하게 AI로 채점을 진행합니다.|
 
 
-# AI 소개🛴
-### 사용자의 연기 영상을 원본 영상(배우의 연기 영상) 과 비교하여 점수를 산출합니다.
-- 비교 방법은 감정 분류를 통해 나온 감정 확률 값의 차이를 이용합니다.
-- 감정 분류는 얼굴 검출과 이미지 분류, 2가지 Task로 구성됩니다.
-- ![taskdescribe](./assets/AI/AI_task_describe.png)
-
-
-- AI 모델 설정과 학습에 대한 상세한 설명은 [Chorong.md](/Chorong.md).
+# 사용Tool
+![kkori_tool](https://github.com/non-inss/KKORI-SSAFY/assets/122503960/a8189352-66af-4b74-868e-78ce06912d0c)
 
 # API 연동 규격서 
-https://i9c203.p.ssafy.io/swagger-ui/index.html#/
+
+[API 연동규격서 2975d5ee4025451b86d5de19703ef893.pdf](https://github.com/non-inss/KKORI-SSAFY/files/13446920/API.2975d5ee4025451b86d5de19703ef893.pdf)
 
 # 시스템 구조도🏗️
 
-![systemarchitecture](./assets/images/REON_SYSTEMARCHITECTURE.PNG)
+![아키텍처](https://github.com/non-inss/KKORI-SSAFY/assets/122503960/bd179587-75fb-415e-9d14-6191188051d7)
 
-# 개발 스택🔧
 
-## Frontend
-![frontend](./assets/images/REON_FRONTEND.PNG)
 
-## Backend
-![backend](./assets/images/REON_BACKEND.PNG)
-
-## Infra
-
-![INFRA](./assets/images/REON_INFRA.PNG)
-
-## AI
-
-![AI](./assets/images/REON_AI.PNG)
-
-## Tool
-
-![tool](./assets/images/REON_TOOL.PNG)
-
-# 팀원소개 🤝
-
-<table align="center">
-    <tr align="center">
-        <td>
-            Backend
-        </td>
-        <td>
-            Backend
-        </td>
-        <td>
-            Frontend
-        </td>
-        <td>
-            Frontend
-        </td>
-        <td>
-            Frontend
-        </td>
-        <td>
-            Frontend
-        </td>
-    </tr>
-    <tr align="center">
-        <td style="min-width: 150px;">
-            <a href="https://github.com/marugy">
-              <img src="https://avatars.githubusercontent.com/u/91540464?v=4?s=100" width="200">
-              <br />
-              <b>marugy</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/jinsikhong">
-              <img src="https://avatars.githubusercontent.com/u/28581484?v=4" width="200">
-              <br />
-              <b>jinsikhong</b>
-            </a>
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/PARKHEECHANG">
-              <img src="https://avatars.githubusercontent.com/u/122577719?v=4" width="200">
-              <br />
-              <b>parkheechan</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/non-inss">
-              <img src="https://avatars.githubusercontent.com/u/122503960?v=4" width="200">
-              <br />
-              <b>non-inss</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/skqlck">
-              <img src="https://avatars.githubusercontent.com/u/95553204?v=4" width="200">
-              <br />
-              <b>skqlck-</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/park-js515">
-              <img src="https://avatars.githubusercontent.com/u/122588631?v=4" width="200">
-              <br />
-              <b>park-js515</b>
-            </a> 
-        </td>
-    </tr>
-    
 
