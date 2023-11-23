@@ -1,7 +1,6 @@
-# 하이퍼 로컬 기반 강아지 산책대행 프로젝트
-<div style="w-100px h-100px"> 
-  
-![kkori메인](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/7076d691-7933-4389-a06e-5de73416dcfd)
+# 하이퍼 로컬 기반 강아지 산책대행 프로젝트 KKORI
+<div align="center">
+  <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/7076d691-7933-4389-a06e-5de73416dcfd" width="300">
 </div>
 ## 프로젝트 소개
 
@@ -28,22 +27,6 @@
 * 배포 환경
   -https://drive.google.com/file/d/1o74JpKF7mp-bgxnmIbbMmZ_E3pIn_8e4/view?usp=sharing
 
-<!-- 자유 양식 -->
-
-<!-- 프로젝트 로고 -->
-# RE:ON 연기 연습 플랫폼📸
-
-<div align=center>
-
-
-![로고](./assets/images/logo.png){: width="800" height=""}
-
-:alarm_clock: 프로젝트 기간  : 2023-07-04 ~ 2023-08-18
-
-## [RE:ON](https://i9c203.p.ssafy.io/) :film_frames:
-연기를 쉽고 재밌게!!:cool: <br>
-
-</div>
 
 
 # REON 기획 :satellite:
