@@ -50,11 +50,11 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/fe8923f2-395a-4c69-9ec3-820558f541dd" alt="시작" width="400" height="400"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/fe8923f2-395a-4c69-9ec3-820558f541dd" alt="시작" width="300" height="300"/>
       <p>앱 시작 화면입니다!</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/6626018b-0f9b-40ad-9638-82ca37818ebf" alt="게시판" width="400" height="400"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/6626018b-0f9b-40ad-9638-82ca37818ebf" alt="게시판" width="300" height="300"/>
       <p>게시판 화면입니다!</p>
     </td>
   </tr>
@@ -74,11 +74,11 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/d1f6e234-17e7-422e-815a-462d4f0f1d31" alt="채팅" width="400" height="400"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/d1f6e234-17e7-422e-815a-462d4f0f1d31" alt="채팅" width="300" height="300"/>
       <p>게시판에서 견주에게 채팅을 보낼 수 있습니다!</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a" alt="지도 및 클러스터링" width="400" height="400"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a" alt="지도 및 클러스터링" width="300" height="300"/>
       <p>내 위치 기반 게시글을 볼 수 있습니다!</p>
     </td>
   </tr>
@@ -88,11 +88,11 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e" alt="분실견 및 관리" width="400" height="400"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e" alt="분실견 및 관리" width="300" height="300"/>
       <p>유저들이 업로드한 연기 영상을 볼 수 있습니다!</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce" alt="산책" width="400" height="400"/>
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce" alt="산책" width="300" height="300"/>
       <p>댓글과 좋아요로 소통할 수 있습니다!</p>
     </td>
   </tr>
