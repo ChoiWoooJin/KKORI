@@ -70,7 +70,28 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 - 저장한 연기 영상을 공유하여 다른 사용자들과 소통하고 평가할 수 있습니다.
 - 많은 사랑을 받은 연기는 REON 인기 영상으로 진입합니다.
 
-
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/d1f6e234-17e7-422e-815a-462d4f0f1d31" alt="채팅" width="300"/>
+      <p>게시판에서 견주에게 채팅을 보낼 수 있습니다!</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/c7e97ca3-c14b-44fa-af7d-8c265898874a" alt="지도 및 클러스터링" width="300"/>
+      <p>내 위치 기반 게시글을 볼 수 있습니다!</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/79ab14af-9a46-4cde-a296-16a78a5d666e" alt="분실견 및 관리" width="300"/>
+      <p>유저들이 업로드한 연기 영상을 볼 수 있습니다!</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/11fce1e6-b512-4adb-bfe3-c1d96d2c0cce" alt="산책" width="300"/>
+      <p>댓글과 좋아요로 소통할 수 있습니다!</p>
+    </td>
+  </tr>
+</table>
 
 # 서비스 이용 시나리오
 
