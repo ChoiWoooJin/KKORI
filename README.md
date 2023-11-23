@@ -1,5 +1,8 @@
 # 하이퍼 로컬 기반 강아지 산책대행 프로젝트
+<div style="w-100px h-100px"> 
+  
 ![kkori메인](https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/7076d691-7933-4389-a06e-5de73416dcfd)
+</div>
 ## 프로젝트 소개
 
 * 프로젝트명: 너와 나의 연결 KKORI
