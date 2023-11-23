@@ -43,7 +43,15 @@ SNS와 유튜브 등에서 밈과 성대모사가 활발하게 퍼져나가고 �
 
 # 기능 소개💡
 * KKORI 주요 기능은 다음과 같습니다
+## 메인 및 게시판 :movie_camera:
 
+| 앱로딩-메인 | 게시판 |
+|:---:|:---:|
+| <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/fe8923f2-395a-4c69-9ec3-820558f541dd" width="300"> | <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/6626018b-0f9b-40ad-9638-82ca37818ebf" width="300"> |
+| 앱 시작 화면입니다! | 게시판 화면입니다! |
+
+- 1:1 화상 연기 배틀을 진행합니다.
+- 표정과 음성을 이용하여 연기를 채점합니다.
 ## 메인 및 게시판 :movie_camera:
 
 |앱로딩-메인|게시판|
