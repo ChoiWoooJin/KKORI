@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://github.com/non-inss/KKORI-SSAFY--/assets/122503960/7076d691-7933-4389-a06e-5de73416dcfd" width="200" hight="200">
 </div>
+
 ## 프로젝트 소개
 
 * 프로젝트명: 너와 나의 연결 KKORI
